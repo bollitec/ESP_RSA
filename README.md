@@ -1,10 +1,10 @@
 # ESP_RSA
-Project to develop a Remote Service Adaptor for the ESP's
-Idea of this project is to develop an RSA for all the existing hardware:
+Project to develop a Remote Service Adaptor for the ESP's.
+Idea is to develop an RSA for most of existing hardware:
 ... means:
   - RSA => Remote Service Adaptor to control the main host
-  - Hardware => ESP like ESP8266, ESP32
-  - Support from => Linux machines like Raspberry
+  - Hardware => ESP like ESP8266, ESP32, (later PC, Laptop, Server)
+  - Support for => Linux machines incl. Raspberry
   - API to control server => every platform, html based, standard json requirements
   
  This project try to include hardware and software.
